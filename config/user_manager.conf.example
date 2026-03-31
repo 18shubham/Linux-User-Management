@@ -1,0 +1,4 @@
+LOG_FILE="./logs/audit.log"
+KEYS_DIR="./keys"
+DEFAULT_SHELL="/bin/bash"
+PASSWORD_LENGTH=16

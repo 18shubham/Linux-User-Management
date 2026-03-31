@@ -1,0 +1,4 @@
+logs/credentials_*.txt
+*.log
+keys/
+config/user_manager.conf

@@ -1,0 +1,5 @@
+username,group,sudo,shell
+alice,developers,no,/bin/bash
+bob,devops,yes,/bin/bash
+charlie,developers,no,/bin/bash
+diana,devops,yes,/bin/bash
